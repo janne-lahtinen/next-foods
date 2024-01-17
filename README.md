@@ -1,3 +1,9 @@
+# Next.js app exercise from Udemy web course
+
+This is an next.js app that uses app router. It uses also some of the newer ways of doing things, like server actions etc.
+
+--------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
